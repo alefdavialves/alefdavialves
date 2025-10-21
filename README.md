@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá pessoal
 
-<!--
-**alefdavialves/alefdavialves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Me chamo Álef e estou cursando Ciência da computação na católica, me especializando em front-end
 
-Here are some ideas to get you started:
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alefdavialves&layout=compact&theme=dark&pt-br$height=100%)
+</div>
+
+##
+
+<div> 
+  
+  <img height="50px" width= "50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img height="50px" width= "50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img height="50px" width= "50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+  <img height="50px" width= "50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+          
+</div>
