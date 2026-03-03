@@ -2,10 +2,6 @@
 
 <p>Me chamo Álef e estou cursando Ciência da computação na católica, me especializando em front-end</p> 
 
-<div>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alefdavialves&layout=compact&theme=dark&pt-br$height=100%)
-</div>
 
 ##
 
