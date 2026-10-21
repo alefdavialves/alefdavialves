@@ -1,6 +1,6 @@
 ## Olá pessoal
 
-<p>Me chamo Álef e estou cursando Ciência da computação na católica, me especializando em front-end</p> 
+<p>Me chamo Álef e estou cursando Ciência da computação na católica, me especializando para se tornar um desenvolvedor full-stack
 
 
 ##
